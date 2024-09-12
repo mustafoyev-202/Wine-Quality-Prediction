@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Wine-Quality-Prediction"
 AUTHOR_USER_NAME = "mustafoyev-202"
-SRC_REPO = "Wine-Quality-Prediction"
+SRC_REPO = "Wine_Quality_Prediction"
 AUTHOR_EMAIL = "baxtiyormustafoyev2006@gmail.com"
 
 setuptools.setup(
